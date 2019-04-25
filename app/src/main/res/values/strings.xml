@@ -1,3 +1,13 @@
 <resources>
+
     <string name="app_name">CHEJ_AndroidNativeRadioButton</string>
+    <string name="lblTitle">My Calculator 1.2</string>
+    <string name="txtValue1">Enter you first value...!!!</string>
+    <string name="txtValue2">Enter you second value...!!!</string>
+    <string name="txtResult">Result...!!!</string>
+    <string name="rbSum"> +</string>
+    <string name="rbSub"> -</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="btnClear">Clear</string>
+
 </resources>
